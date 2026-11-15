@@ -180,6 +180,7 @@
 | [0058-length-of-last-word](https://github.com/GaurangNauriyal/DSA-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/GaurangNauriyal/DSA-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/GaurangNauriyal/DSA-/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0227-basic-calculator-ii) |
@@ -252,6 +253,7 @@
 | [0125-valid-palindrome](https://github.com/GaurangNauriyal/DSA-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/GaurangNauriyal/DSA-/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurangNauriyal/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0234-palindrome-linked-list) |
