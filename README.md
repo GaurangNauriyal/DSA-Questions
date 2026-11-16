@@ -192,6 +192,7 @@
 | [0678-valid-parenthesis-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/1021-remove-outermost-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2315-count-asterisks](https://github.com/GaurangNauriyal/DSA-/tree/master/2315-count-asterisks) |
 | [3498-reverse-degree-of-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -343,6 +344,7 @@
 | [0067-add-binary](https://github.com/GaurangNauriyal/DSA-/tree/master/0067-add-binary) |
 | [1688-count-of-matches-in-tournament](https://github.com/GaurangNauriyal/DSA-/tree/master/1688-count-of-matches-in-tournament) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
