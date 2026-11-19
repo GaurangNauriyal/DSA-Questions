@@ -47,6 +47,7 @@
 | [0704-binary-search](https://github.com/GaurangNauriyal/DSA-/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/GaurangNauriyal/DSA-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
+| [0888-fair-candy-swap](https://github.com/GaurangNauriyal/DSA-/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -130,6 +131,7 @@
 | [0389-find-the-difference](https://github.com/GaurangNauriyal/DSA-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurangNauriyal/DSA-/tree/master/0451-sort-characters-by-frequency) |
+| [0888-fair-candy-swap](https://github.com/GaurangNauriyal/DSA-/tree/master/0888-fair-candy-swap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -229,6 +231,7 @@
 | [0658-find-k-closest-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/GaurangNauriyal/DSA-/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/GaurangNauriyal/DSA-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0888-fair-candy-swap](https://github.com/GaurangNauriyal/DSA-/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
@@ -334,6 +337,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurangNauriyal/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/0658-find-k-closest-elements) |
+| [0888-fair-candy-swap](https://github.com/GaurangNauriyal/DSA-/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
