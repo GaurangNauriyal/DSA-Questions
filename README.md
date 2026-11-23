@@ -51,6 +51,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1748-sum-of-unique-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -136,6 +137,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurangNauriyal/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0888-fair-candy-swap](https://github.com/GaurangNauriyal/DSA-/tree/master/0888-fair-candy-swap) |
+| [1748-sum-of-unique-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/1748-sum-of-unique-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -520,6 +522,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/GaurangNauriyal/DSA-/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurangNauriyal/DSA-/tree/master/0451-sort-characters-by-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/1748-sum-of-unique-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
