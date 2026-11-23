@@ -48,6 +48,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/GaurangNauriyal/DSA-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/GaurangNauriyal/DSA-/tree/master/0888-fair-candy-swap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -80,6 +81,7 @@
 | [0400-nth-digit](https://github.com/GaurangNauriyal/DSA-/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/GaurangNauriyal/DSA-/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/GaurangNauriyal/DSA-/tree/master/1688-count-of-matches-in-tournament) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -534,10 +536,19 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/GaurangNauriyal/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/GaurangNauriyal/DSA-/tree/master/0451-sort-characters-by-frequency) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
