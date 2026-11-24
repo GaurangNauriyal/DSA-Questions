@@ -61,6 +61,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/GaurangNauriyal/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GaurangNauriyal/DSA-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/GaurangNauriyal/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3912-valid-elements-in-an-array](https://github.com/GaurangNauriyal/DSA-/tree/master/3912-valid-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
