@@ -88,6 +88,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/GaurangNauriyal/DSA-/tree/master/1688-count-of-matches-in-tournament) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/GaurangNauriyal/DSA-/tree/master/2235-add-two-integers) |
+| [3360-stone-removal-game](https://github.com/GaurangNauriyal/DSA-/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/GaurangNauriyal/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GaurangNauriyal/DSA-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/GaurangNauriyal/DSA-/tree/master/3870-count-commas-in-range) |
@@ -366,6 +367,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/GaurangNauriyal/DSA-/tree/master/1688-count-of-matches-in-tournament) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/GaurangNauriyal/DSA-/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
