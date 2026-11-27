@@ -300,6 +300,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/GaurangNauriyal/DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GaurangNauriyal/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GaurangNauriyal/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/GaurangNauriyal/DSA-/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/GaurangNauriyal/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0227-basic-calculator-ii) |
@@ -555,6 +556,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/GaurangNauriyal/DSA-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/GaurangNauriyal/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [1352-product-of-the-last-k-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
