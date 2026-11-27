@@ -55,6 +55,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GaurangNauriyal/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GaurangNauriyal/DSA-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/GaurangNauriyal/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -140,6 +141,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/GaurangNauriyal/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0888-fair-candy-swap](https://github.com/GaurangNauriyal/DSA-/tree/master/0888-fair-candy-swap) |
 | [1748-sum-of-unique-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/1748-sum-of-unique-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GaurangNauriyal/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -563,4 +565,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/GaurangNauriyal/DSA-/tree/master/0225-implement-stack-using-queues) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GaurangNauriyal/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GaurangNauriyal/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
