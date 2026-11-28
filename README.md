@@ -50,6 +50,7 @@
 | [0888-fair-candy-swap](https://github.com/GaurangNauriyal/DSA-/tree/master/0888-fair-candy-swap) |
 | [1352-product-of-the-last-k-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/GaurangNauriyal/DSA-/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1748-sum-of-unique-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -286,6 +287,7 @@
 | [0658-find-k-closest-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/GaurangNauriyal/DSA-/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Manacher
@@ -354,6 +356,7 @@
 | [0658-find-k-closest-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/0658-find-k-closest-elements) |
 | [0888-fair-candy-swap](https://github.com/GaurangNauriyal/DSA-/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/GaurangNauriyal/DSA-/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Enumeration
